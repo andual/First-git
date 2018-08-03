@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# @Andual
+# @Andual..
 
 import sys, math
 from PyQt5 import QtCore, uic, QtWidgets
