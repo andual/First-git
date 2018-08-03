@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# @Andual
+# @Andual White
 
 import sys, math
 from PyQt5 import QtCore, uic, QtWidgets
@@ -139,4 +139,3 @@ app = QtWidgets.QApplication(sys.argv)
 MyWindow = MyWindowClass(None)
 MyWindow.show()
 app.exec_()
-#probando
