@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # @Andual White33
+#prueba para saber si las ramas se suben correctamente con mi comando
 
 import sys, math
 from PyQt5 import QtCore, uic, QtWidgets
